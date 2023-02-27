@@ -6,4 +6,4 @@ Donate to us at https://bank.hackclub.com/donations/start/linkscape (Your donati
 
 Founders: [Thomas Wu](https://github.com/thomaswcy) and [Meli Liu](https://github.com/MeliLXT)
 
-Co-founders: [Jett](https://github.com/JettChenT), [Edward Hsing](https://github.com/xingyujie) and [Snapdragon Lee](https://github.com/SnapdragonLee)
+Co-founders: [Jett Chen](https://github.com/JettChenT), [Edward Hsing](https://github.com/xingyujie) and [Snapdragon Lee](https://github.com/SnapdragonLee)
