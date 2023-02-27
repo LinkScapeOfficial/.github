@@ -1,13 +1,9 @@
 ## Hi there, this is LinkScape 👋
 
-<p align="center">
-  <a href="https://github.com/thomaswcy">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LinkScapeFoundation&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-    </a>
-</p>
+LinkScape is a partner of [Hack Club](https://hackclub.com). We are a 501(c)(3) nonprofit (EIN: 81-2908499).
 
-LinkScape is a partner of [Hack Club](https://hackclub.com), we are a non-officially registered non-profit organization. We spend our times on open-source softwares.
+Donate to us at https://bank.hackclub.com/donations/start/linkscape (Your donations are tax-deductible in the US)
 
-Founders: @thomaswcy and @MeliLXT
+Founders: [Thomas Wu](https://github.com/thomaswcy) and [Meli Liu](https://github.com/MeliLXT)
 
-Location: Shanghai,China
+Co-founders: [Jett](https://github.com/JettChenT), [Edward Hsing](https://github.com/xingyujie) and [Snapdragon Lee](https://github.com/SnapdragonLee)
